@@ -2,7 +2,7 @@
 
 *Visual instruction tuning towards large language and vision models with spatial relation reasoning capability.*
 
-[[Huggingface Page](https://huggingface.co/rogerxi/Spatial-LLaVA-7B)] [[Data](https://huggingface.co/datasets/rogerxi/LLaVA-Spatial-Instruct-850K)] 
+[[🤗 Huggingface Page](https://huggingface.co/rogerxi/Spatial-LLaVA-7B)] [Demo](https://huggingface.co/spaces/rogerxi/Spatial-LLaVA) [[Data](https://huggingface.co/datasets/rogerxi/LLaVA-Spatial-Instruct-850K)] 
 
 <!--p align="center">
     <a href="https://llava.hliu.cc/"><img src="images/llava_logo.png" width="50%"></a> <br>
